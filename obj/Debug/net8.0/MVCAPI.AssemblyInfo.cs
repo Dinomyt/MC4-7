@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85907bc4883949f6de14c2278f8c87dec2393e89")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

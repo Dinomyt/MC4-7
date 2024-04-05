@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nengl\\Documents\\VS Code\\MVCAPI\\MVCAPI.csproj": {}
+    "C:\\Users\\nengl\\Documents\\VS Code\\EndPoint\\MVCAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nengl\\Documents\\VS Code\\MVCAPI\\MVCAPI.csproj": {
+    "C:\\Users\\nengl\\Documents\\VS Code\\EndPoint\\MVCAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nengl\\Documents\\VS Code\\MVCAPI\\MVCAPI.csproj",
+        "projectUniqueName": "C:\\Users\\nengl\\Documents\\VS Code\\EndPoint\\MVCAPI.csproj",
         "projectName": "MVCAPI",
-        "projectPath": "C:\\Users\\nengl\\Documents\\VS Code\\MVCAPI\\MVCAPI.csproj",
+        "projectPath": "C:\\Users\\nengl\\Documents\\VS Code\\EndPoint\\MVCAPI.csproj",
         "packagesPath": "C:\\Users\\nengl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nengl\\Documents\\VS Code\\MVCAPI\\obj\\",
+        "outputPath": "C:\\Users\\nengl\\Documents\\VS Code\\EndPoint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nengl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,6 +48,12 @@
               "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
             },

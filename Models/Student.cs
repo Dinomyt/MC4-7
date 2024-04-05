@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MYCAPI.Models
+namespace MVCAPI.Models
 {
     public class Student
     {
