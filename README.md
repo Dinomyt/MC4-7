@@ -7,7 +7,7 @@ Neng Lao
 
 Peer Reviewers:  Johnny Pham
 ---------------------
-Endpoint looks good, it's on point.
+- Endpoint looks good, it's on point.
 ---------------------
 
 
